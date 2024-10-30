@@ -1,0 +1,66 @@
+.wrapper{
+    border: 2px solid gray;
+    backdrop-filter: blur(20px);
+    margin-top:90px;
+   border-radius: 10px;
+   font-size: larger;
+   padding: 5vh;
+   padding: 60px 80px;
+}
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://as1.ftcdn.net/jpg/02/93/27/60/480_F_293276061_Kri1RHIH23q8rhG7TDX75aa8YksAKHgU.jpg?token=1729483182_Lo1QibcyBZxDgGcKPMHjsII_nFUwzJnsw62XTMHcVYM);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-color: lightgray;
+    background-position: center;
+
+}
+#email{
+    border-radius: 20px;
+    border: 2px solid lightgray;
+    font-size: larger;
+    background-color: transparent;
+    
+}
+#password{
+    border-radius: 20px;
+    border: 2px solid lightgray;
+    font-size: larger;
+    background-color: transparent;
+}
+label,h1{
+    color: white;
+    
+}
+.input{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.code{
+    margin-bottom: 40px;
+}
+h1{
+    margin-bottom: 40px;
+    color: lightgray;
+}
+.sub{
+    margin-bottom: 20px;
+}
+.choice{
+    margin-bottom: 20px;
+}
+#submit{
+    border-radius: 20px;
+    font-size: larger;
+    background-color: transparent;
+    border-color: lightgray;
+    color: lightgray;
+}
+*,html{
+    background-image: url(https://as1.ftcdn.net/jpg/02/93/27/60/480_F_293276061_Kri1RHIH23q8rhG7TDX75aa8YksAKHgU.jpg?token=1729483182_Lo1QibcyBZxDgGcKPMHjsII_nFUwzJnsw62XTMHcVYM);
+    background-size: cover;
+}
